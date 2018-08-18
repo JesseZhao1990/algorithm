@@ -8,6 +8,7 @@
 * [旋转数组](https://github.com/JesseZhao1990/algorithm/issues/3)
 * [如何快速找出两个数之和等于某一个值的两个数？](https://github.com/JesseZhao1990/algorithm/issues/5)
 * [快排](https://github.com/JesseZhao1990/algorithm/issues/6)
+* [排序算法大总结](https://github.com/JesseZhao1990/algorithm/issues/49)
 * [快速找到数组中的最大值](https://github.com/JesseZhao1990/algorithm/issues/8)
 * [多维数组的展开](https://github.com/JesseZhao1990/algorithm/issues/9)
 * [二分查找](https://github.com/JesseZhao1990/algorithm/issues/10)
